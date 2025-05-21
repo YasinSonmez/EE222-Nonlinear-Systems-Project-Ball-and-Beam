@@ -1,5 +1,5 @@
 # EE222-Nonlinear-Systems-Project-Ball-and-Beam
-Reports, videos and leaderboard of different controllers on EE 222 Ball and Beam nonlinear control project Spring 2025.
+Reports, videos and leaderboard of different controllers on EE 222 Ball and Beam nonlinear control project Spring 2025. The original repo with project instructions can be found [here](https://github.com/YasinSonmez/EE222-Nonlinear-Systems-Ball-and-Beam-Project).
 
 | Group | Controller Description | Result | Video | Score |
 |-------|-------------------------|--------|--------|-------|
